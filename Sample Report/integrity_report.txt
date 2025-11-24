@@ -1,0 +1,11 @@
+File Integrity Report
+Generated at: 2025-11-08T18:35:17.270325Z
+Root path: C:\Users\jeral\OneDrive\Documents\FIV
+Algorithms: md5, sha1, sha224
+
+File: test.txt
+  Size: 14 bytes
+  Modified (UTC): 2025-11-07T15:37:57.452241Z
+  md5: 642d564104bfbe299a2c29456eaf7c95
+  sha1: 3d35dfd9e797e378e8171148cd7d9363cd882ad4
+  sha224: c3f010dee090b541646a85532b90ad77f89c813e9abf1f5d91082db9
