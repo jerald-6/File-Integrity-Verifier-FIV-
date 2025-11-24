@@ -1,0 +1,16 @@
+Verification Result
+Checked at: 2025-11-08T18:42:39.779585Z
+Algorithms: md5, sha1, sha224
+
+File: test.txt
+  Status: OK
+  Expected:
+    md5: 642d564104bfbe299a2c29456eaf7c95
+    sha1: 3d35dfd9e797e378e8171148cd7d9363cd882ad4
+    sha224: c3f010dee090b541646a85532b90ad77f89c813e9abf1f5d91082db9
+  Actual:
+    md5: 642d564104bfbe299a2c29456eaf7c95
+    sha1: 3d35dfd9e797e378e8171148cd7d9363cd882ad4
+    sha224: c3f010dee090b541646a85532b90ad77f89c813e9abf1f5d91082db9
+
+Summary: Total=1, OK=1, MISMATCH=0, MISSING=0
